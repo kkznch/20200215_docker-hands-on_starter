@@ -20,19 +20,19 @@ Docker や Docker Compose に関連するファイルは含まれていないの
 ## ハンズオンやること目次
 
 1. Docker の操作的なハンズオン
-  1. 最小限の Dockerfile を書く
-  2. docker コマンドで Dockerfile からイメージを作成する
-  3. docker コマンドで作成したイメージを確認する
-  4. docker コマンドで作成したイメージからコンテナを起動する
-  5. docker コマンドでコンテナの停止、再度起動する
+    1. 最小限の Dockerfile を書く
+    2. docker コマンドで Dockerfile からイメージを作成する
+    3. docker コマンドで作成したイメージを確認する
+    4. docker コマンドで作成したイメージからコンテナを起動する
+    5. docker コマンドでコンテナの停止、再度起動する
 2.  Dockerfile を書いていくハンズオン
-  1. dokcer コマンドでコンテナを起動しログインする
-  2. 必要なパッケージをインストールしていく（あらかじめこちらから提示しておく）
-  3. パッケージのインストールが確認できたら Dockerfile に記述していく
-  4. Dockerfile からイメージを再度作成する
+    1. dokcer コマンドでコンテナを起動しログインする
+    2. 必要なパッケージをインストールしていく（あらかじめこちらから提示しておく）
+    3. パッケージのインストールが確認できたら Dockerfile に記述していく
+    4. Dockerfile からイメージを再度作成する
 3. docker-compose なハンズオン
-  1. docker-compose.yml を書いていく
-  2. docker-compose コマンドで起動する
+    1. docker-compose.yml を書いていく
+    2. docker-compose コマンドで起動する
 
 ## ハンズオンする
 
