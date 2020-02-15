@@ -155,9 +155,9 @@ Docker コマンドだけで nginx と php-fpm のコンテナを連携させる
   
     REPOSITORY         TAG       IMAGE ID        CREATED         SIZE
     starter_php-fpm    latest    fed4dbf5d3f2    28 hours ago    83.5MB
-    nginx              latest    5ad3bd0e67a9    3 weeks ago     127MB
     ```
     - ビルドに成功してたらちゃんと一覧に表示されているはず...
+    - nginx はコンテナ起動時に pull されるので大丈夫
 4. 以下のコマンドでコンテナ郡を起動してみよう
     ```shell
     $ docker-compose up -d
