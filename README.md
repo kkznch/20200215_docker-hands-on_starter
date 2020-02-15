@@ -8,11 +8,11 @@ Docker や Docker Compose に関連するファイルは含まれていないの
 
 ## リポジトリの中にある奴
 
-- README.md
+- `README.md`
   - README です。ハンズオンの手順とかこっちに書いていきます。
-- Makefile
+- `Makefile`
   - Makefile です。アプリの初期処理をする際に使います。
-- conf.d/nginx/default.conf
+- `conf.d/nginx/default.conf`
   - nginx の Docker コンテナに差し込む設定ファイルです。
-- local-app
+- `local-app`
   - Laravel がたくさん詰まったフォルダです。
