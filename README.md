@@ -46,7 +46,7 @@ https://github.com/kkznch/20200215_docker-hands-on_completed
 リポジトリの名前が長いので別名を付けても良いよ。
 
 ```shell
-$ git clone https://github.com/kkznch/20200215_docker-hands-on_completed.git
+$ git clone https://github.com/kkznch/20200215_docker-hands-on_starter.git
 ```
 
 そしてフォルダの中に移動する。
