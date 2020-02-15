@@ -17,6 +17,10 @@ Docker や Docker Compose に関連するファイルは含まれていないの
 - `local-app`
   - Laravel がたくさん詰まったフォルダです。
 
+## こんな感じのもの作るよ
+
+![20200215_Dockerハンズオン](https://user-images.githubusercontent.com/1622387/74581705-bb872700-4ff5-11ea-8abc-8616718bcde6.png)
+
 ## ハンズオンやること目次
 
 1. Docker の操作的なハンズオン
@@ -34,5 +38,9 @@ Docker や Docker Compose に関連するファイルは含まれていないの
     1. docker-compose.yml を書いていく
     2. docker-compose コマンドで起動する
 
-## ハンズオンする
+## ハンズオンするぞ！
+
+### Docker の操作的なハンズオン
+
+
 
