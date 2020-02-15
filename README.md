@@ -97,7 +97,7 @@ $ cd 20200215_docker-hands-on_starter
 
 1. 以下のコマンドでコンテナを起動しログインしよう
     ```shell
-    $ docker container run --name my-container -it my-image ash
+    $ docker container run --rm --name my-container -it my-image ash
     ```
     - **Tips:** さっきの `docker container run` コマンドに `--name コンテナ名` をつけることで起動したコンテナの区別が分かりやすくできるよ  
 2. コンテナの中で必要なパッケージをインストールして確認しよう
