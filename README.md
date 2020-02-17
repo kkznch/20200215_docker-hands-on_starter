@@ -100,6 +100,7 @@ $ cd 20200215_docker-hands-on_starter
     $ docker container run --rm --name my-container -it my-image ash
     ```
     - **Tips:** さっきの `docker container run` コマンドに `--name コンテナ名` をつけることで起動したコンテナの区別が分かりやすくできるよ  
+    - **Tips:** `docker container run` コマンドについてる `--rm` オプションは、コンテナを起動して実行した後に自動で消えてくれるようにする設定だよ
 2. コンテナの中で必要なパッケージをインストールして確認しよう
     ```shell
     $ apk add パッケージ名
